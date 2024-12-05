@@ -1,0 +1,7 @@
+room_id	host_id	room_type	country	city	neighborhood	reviews	overall_satisfaction	accommodates	bedrooms	price	property_type
+10047973	48528719	Shared room	France	Paris	Gare	1	0.0	4	1.0	108.0	Apartment
+2864617	4531179	Shared room	France	Paris	Villette	32	4.0	5	1.0	59.0	Apartment
+5862381	30438981	Shared room	France	Paris	Saint-Georges	0	0.0	2	1.0	121.0	Apartment
+17197886	115781027	Shared room	France	Paris	Necker	0	0.0	3	1.0	93.0	Apartment
+16103729	77134343	Shared room	France	Paris	Villette	4	4.5	4	1.0	100.0	Apartment
+7027668	36842314	Shared room	France	Paris	Notre-Dame-des-Champs	29	3.5	2	1.0	91.0	Apartment
